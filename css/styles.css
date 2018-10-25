@@ -1,0 +1,13 @@
+    .navbar-brand {
+      padding: 40px;
+    }
+    .navbar-brand>img {
+      height: 10%;
+      padding: -15px;
+      width: auto;
+    }
+
+    .navbar-header .navbar-brand{ 
+      background: url(img/casa.png) top / contain no-repeat;
+      width: 200px;
+    }
